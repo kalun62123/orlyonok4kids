@@ -15,7 +15,7 @@ var swiper = new Swiper(".mySwiper", {
 
 let headerText = `
 
-<a class="header_link" href="../index.html"><img class="header_image" src="images/eaglet.png" alt=""></a>
+<a class="header_link" href="index.html"><img class="header_image" src="images/eaglet.png" alt=""></a>
 
 <div class="header_menu">
 
