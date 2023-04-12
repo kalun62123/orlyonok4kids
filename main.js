@@ -21,10 +21,10 @@ let headerText = `
 
     <nav>
         <ul>
-            <li><a class="header_button" href="/traditions/traditions.html">Законы и традиции</a></li>
-            <li><a class="header_button" href="/legends/index.html">Легенды Орлёнка</a></li>
-            <li><a class="header_button" href="/songs/orlyonoksongs.html">Песни Орлёнка</a></li>
-            <li><a class="header_button" href="/developers/developers.html">Разработчики</a></li>
+            <li><a class="header_button" href="traditions/traditions.html">Законы и традиции</a></li>
+            <li><a class="header_button" href="legends/index.html">Легенды Орлёнка</a></li>
+            <li><a class="header_button" href="songs/orlyonoksongs.html">Песни Орлёнка</a></li>
+            <li><a class="header_button" href="developers/developers.html">Разработчики</a></li>
         </ul>
     </nav>
 
